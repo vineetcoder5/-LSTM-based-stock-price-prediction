@@ -1,7 +1,4 @@
-
-Certainly! Here's an extended version of the README without the Python code:
-
-Stock Predictor using Deep Learning
+# Stock Predictor using Deep Learning
 Overview
 This project is a stock price prediction system leveraging deep learning techniques. The model is trained on historical stock data sourced from the National Stock Exchange (NSE) website. Key features such as 'HIGH', 'LOW', 'PREV. CLOSE', '52W H', '52W L', and 'No of trades' are utilized for prediction. Additionally, new columns, 'avg' and 'Next_two_days_avg', are introduced to capture average values and predict future trends.
 
